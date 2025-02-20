@@ -1,0 +1,3 @@
+repository "Tipsy Hamster Project@CPSC236_GROUP_3@cloud"
+  path "/"
+    smartbranch "/main"
