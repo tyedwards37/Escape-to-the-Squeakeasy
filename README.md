@@ -1,5 +1,4 @@
 # Escape to the Squeakeasy   
-[Try it out!](https://dylandevelops.itch.io/escape-to-the-squeakeasy)
 
 ## Group 6 ( Tipsy Hamsters )
 **Members**: Daniel, Tyler, Dylan, Johnny
@@ -45,8 +44,8 @@ As players progress, they'll need to collect special "keys" to unlock new areas 
 - Some hazards will push the hamster in a different direction than the one they were originally heading.
 
 ## Builds
-You can download the builds for the game from the following link:
-[Download The Tipsy Hamster Builds](https://drive.google.com/drive/folders/1T5thjEcR0eZ7ubg87AB-dwBaXORNYAdj?usp=sharing) <!-- Replace this placeholder link with the actual URL -->
+You can play and download the builds for the game from the following link:
+[Escape to the Squeakeasy]([https://drive.google.com/drive/folders/1T5thjEcR0eZ7ubg87AB-dwBaXORNYAdj?usp=sharing](https://dylandevelops.itch.io/escape-to-the-squeakeasy)) 
 
 ## Similar Apps
 - **Tomb of the Mask**: Camera view and obstacle avoidance.
