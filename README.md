@@ -45,7 +45,7 @@ As players progress, they'll need to collect special "keys" to unlock new areas 
 
 ## Builds
 You can play and download the builds for the game from the following link:
-[Escape to the Squeakeasy]([https://drive.google.com/drive/folders/1T5thjEcR0eZ7ubg87AB-dwBaXORNYAdj?usp=sharing](https://dylandevelops.itch.io/escape-to-the-squeakeasy)) 
+[Escape to the Squeakeasy](https://dylandevelops.itch.io/escape-to-the-squeakeasy) 
 
 ## Similar Apps
 - **Tomb of the Mask**: Camera view and obstacle avoidance.
